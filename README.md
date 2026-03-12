@@ -25,24 +25,24 @@ That's it.
 
 
   
-<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=WNR-Official&theme=chartreuse-dark" width=32% /> </a>
+<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=W-N-R&theme=chartreuse-dark" width=32% /> </a>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=WNR-Official&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=23% alt="mngw" />
+<img src="https://github-contributor-stats.vercel.app/api?username=W-N-R&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width=23% alt="mngw" />
 
 </p>
 
 
  
 <p align="center">
-  <a href="https://github.com/WNR-Official">
+  <a href="https://github.com/W-N-R">
     <img src="https://komarev.com/ghpvc/?username=W-N-R&label=PROFILE+VIEWS&color=1fc700&style=for-the-badge" width=28% alt="profile views"/>
   </a>
  &nbsp;
-  <a href="https://github.com/WNR-Official?tab=followers">
+  <a href="https://github.com/W-N-R?tab=followers">
     <img src="https://img.shields.io/badge/👥_Followers-1fc700?style=for-the-badge" width=20%/>
   </a>
   &nbsp;
-  <a href="https://github.com/WNR-Official">
+  <a href="https://github.com/W-N-R">
     <img src="https://img.shields.io/badge/Stars_⭐_⭐_⭐_-green?style=for-the-badge" width=19% />
   </a>
 </p>
@@ -50,19 +50,19 @@ That's it.
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WNR-Official&theme=chartreuse_dark" width=27% alt="stats graph"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WNR-Official&theme=chartreuse_dark&utcOffset=8" width=27% alt="languages graph"  /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=W-N-R&theme=chartreuse_dark" width=27% alt="stats graph"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=W-N-R&theme=chartreuse_dark&utcOffset=8" width=27% alt="languages graph"  /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WNR-Official&theme=chartreuse_dark" width=27% alt="mngw" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=W-N-R&theme=chartreuse_dark" width=27% alt="mngw" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-WNR-Official-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WNR-Official&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WNR-Official&theme=chartreuse_dark" width=94% alt="GitHub Profile Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W-N-R&theme=chartreuse_dark" width=94% alt="GitHub Profile Summary" />
 </div>
 
-<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=WNR-Official&theme=chartreuse-dark" width=98% /> </a></p> 
+<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark" width=98% /> </a></p> 
 
 ****************************
 
