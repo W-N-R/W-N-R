@@ -53,7 +53,7 @@ That's it.
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=W-N-R&theme=chartreuse_dark" width=27% alt="stats graph"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=W-N-R&theme=chartreuse_dark&utcOffset=8" width=27% alt="languages graph"  /> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=W-N-R&theme=chartreuse_dark" width=27% alt="mngw" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=&theme=chartreuse_dark" width=27% alt="mngw" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="88%" alt="w-n-r"  /></a> </p> 
 
